@@ -4,8 +4,8 @@ Sentiment analysis of tweets with NLP
 **Dataset:**   
 The dataset is collected in Spring 2014 from Twitter. It is not included in public repo due to Twitter terms of service.  
 
-**Data preprocessing:** 
-classifySemevalTweets.py  
+**Data preprocessing:**  
+   classifySemevalTweets.py  
 -  classifies data in 3 buckets - pos, neg and neu 
 -  Convert to lower case 
 -	 Remove URLs since they don’t contribute to sentiment of tweet 
